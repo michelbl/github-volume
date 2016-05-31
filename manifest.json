@@ -1,7 +1,7 @@
 {
 "name":"github-volume",
-"description":"not yet",
-"version":"1",
+"description":"Add number of bytes in github language stats",
+"version":"0.0.1",
 "manifest_version":2,
 "content_scripts": [
     {
