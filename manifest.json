@@ -5,7 +5,7 @@
 "manifest_version":2,
 "content_scripts": [
     {
-      "matches": ["http://www.google.co.in/*","https://www.google.co.in/*"],
+      "matches": ["https://github.com/*"],
       "js": ["script.js"]
     }
   ]
